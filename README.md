@@ -4,6 +4,7 @@ Simple shooter written on python that looks like shooter game from childhood
 1. Make sure that you added python to path
 2. Write "pip install pygame" in cmd without quotes
 3. Also type this "pip install random" without quotes
+4. Run shooter.py
 # How to control the player
 Left/Right Arrow - move right and left
 Space - shoot
